@@ -1,0 +1,18 @@
+{
+  "name": "udiudi/yoast-seo-pro",
+  "description": "Yoast Pro improve the SEO management",
+  "version": "11.1.0",
+  "type": "wordpress-plugin",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@github.com:udiudi/YoastSEOPro.git"
+    }
+  ],
+  "require": {
+      "composer/installers": "^1.0"
+  },
+  "license": "GPL-2.0+"
+}
